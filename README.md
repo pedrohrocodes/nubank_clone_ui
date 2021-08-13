@@ -10,5 +10,4 @@ Nubank Clone UI App em Flutter
 
 Mobile
 
-<img src="nubank01.png" height="500em" />
-<img src="nubank02.png" height="500em" />
+<img src="nubank01.png" height="700em" /><img src="nubank02.png" height="700em" />
